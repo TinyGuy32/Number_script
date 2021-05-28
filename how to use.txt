@@ -1,0 +1,13 @@
+@varName_Number.           creates a variable with the name varName and value Number
+#thing.                               prints a thing
+$varName<.                       how you use a variable when defining another variable or just printing it. exempel:(#$var1<.)
++var1_var2_var3.               stores the sum of var2 and var 3 in var 1
+-var1_var2_var3.                 subtracts var3 from var2 and stores it in var1
+/var1_var2_var3.                 divides var2 by var3 and stores it in var1
+*var1_var2_var3.                multiplies var2 by var3 and stores it in var1
+=var1_var2_var3.               sets var1 to 1 if var2 is equal to var3 and to 0 if theyre not
+<var1_var2_var3.               sets var1 to 1 if var2 is more than var3 and to 0 if it is not
+>var1.                               stores user input to var1
+?varName[                          
+code.                                   
+]                                        dose the code in the square brackets if varName is 1
