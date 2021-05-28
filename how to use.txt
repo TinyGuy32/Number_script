@@ -1,5 +1,8 @@
 everything here that has a dot after it needs a dot after it to work
 
+you also need to remember to put your code files in the same directory as my .py file 
+you can just put yor code in a .txt files and then write the file name in my .py program
+
 @varName_Number.           creates a variable with the name varName and value Number
 #thing.                               prints a thing
 $varName<                        how you use a variable when defining another variable or just printing it. exempel:(#$var1<.)
