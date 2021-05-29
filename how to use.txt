@@ -2,6 +2,7 @@ everything here that has a dot after it needs a dot after it to work
 
 you also need to remember to put your code files in the same directory as my .py file 
 you can just put yor code in a .txt files and then write the file name in my .py program
+remember to have a space att the end of each program or it might not work
 
 @varName_Number.           creates a variable with the name varName and value Number
 #thing.                               prints a thing
@@ -19,3 +20,4 @@ code.                                 dose the code in the square brackets if va
 @varName_[string]             saves the text in the square brackets as a string to variable varName,
 ,                                          to set the point to go back to
 '.                                         to go back to the set point
+
